@@ -3,7 +3,7 @@ import React from "react";
 import { Sidebar } from "react-pro-sidebar";
 
 import { Button, Img, Line, List, Text } from "components";
-import SelectedStudentGeneralColumnvisolearn from "components/SelectedStudentGeneralColumnvisolearn";
+
 import Sidebar1 from "components/Sidebar1";
 
 const DocumentsPage = () => {
