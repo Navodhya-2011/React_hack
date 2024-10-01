@@ -18,7 +18,7 @@ const DashboardPage = () => {
                 className="sm:text-2xl md:text-[26px] text-[28px] text-center text-white-A700"
                 size="txtAlfaSlabOneRegular28"
               >
-                Viso Learn
+                Learn
               </Text>
             </div>
             <div className="flex flex-col font-ibmplexsans items-center justify-start md:ml-[0] ml-[62px] mr-[71px] mt-[23px] w-[49%]">
