@@ -17,12 +17,12 @@ const DocumentsPage = () => {
             <div className="bg-gray-100 flex flex-col items-center justify-start p-7 sm:px-5 rounded-[20px] w-[97%] md:w-full">
               <div className="flex flex-col items-start justify-start mb-2.5 w-[98%] md:w-full">
                 <div className="flex md:flex-col flex-row md:gap-5 items-start justify-start w-[67%] md:w-full">
-                  <Text
+                  {/* <Text
                     className="text-base text-gray-600"
                     size="txtIBMPlexSansRegular16"
                   >
                     General
-                  </Text>
+                  </Text> */}
                   <Text
                     className="md:ml-[0] ml-[41px] text-base text-gray-900"
                     size="txtIBMPlexSansMedium16"
